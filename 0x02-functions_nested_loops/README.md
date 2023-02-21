@@ -1,1 +1,1 @@
-Learning c functions and nested loops
+Learning C functions and nested loops
