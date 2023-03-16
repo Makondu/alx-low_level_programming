@@ -6,7 +6,7 @@
  *
  * Return - Success is 0
  */
-int main()
+int main(void)
 {
 	char str[52];
 
