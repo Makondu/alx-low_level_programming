@@ -3,7 +3,7 @@
 /**
  * _puts_recursion - prints a string, followed by a new line
  * @s: string to be printed
- * putsRecursion - helps in calling _puts_recursion
+ * putsRecursion - prints a string
  *
  * Return: nothing
  */
@@ -23,6 +23,7 @@ void _puts_recursion(char *s)
 void putsRecursion(void)
 {
 	char s[] = "Puts with recursion";
+
 	_puts_recursion(s);
 }
 
