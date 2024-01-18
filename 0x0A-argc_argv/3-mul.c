@@ -4,7 +4,7 @@
 /**
  * main - multiplies two numbers
  * @argc: argument counter
- * @argv; array of strings, the command line arguments
+ * @argv: array of strings, the command line arguments
  * Return: Always (0)
  */
 int main(int argc, char *argv[])
